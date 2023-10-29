@@ -9,11 +9,16 @@ UML Diagrams Examples:
 
 Use Case Diagram Example:
 The Use Case Diagram models the functions and the key actors of the system.
+<img width="665" alt="usecase diagram" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/673d9bae-5f30-4c5c-b7b1-bcc643c03abb">
 
 Class Diagram:
 Displays the main entities and the relationships.
+<img width="780" alt="con class" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/6f8e2eea-d321-413b-951f-13bc563cdd91">
+
+
 
 Sequence Diagram Example:
+<img width="689" alt="sequence" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/2cd59988-8da7-46e0-bb89-aa9c0e59d2e6">
 
 The Sequence Diagram displays the workflow for the use cases Such as:
 
@@ -29,7 +34,6 @@ The Sequence Diagram displays the workflow for the use cases Such as:
 
 Limitations:
 
-- 
-everything in the programe (RM2PT)
+- everything in the programe (RM2PT)
 
 
