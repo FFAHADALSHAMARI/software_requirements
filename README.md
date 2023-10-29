@@ -18,6 +18,7 @@ Displays the main entities and the relationships.
 
 
 Sequence Diagram Example:
+
 <img width="689" alt="sequence" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/2cd59988-8da7-46e0-bb89-aa9c0e59d2e6">
 
 The Sequence Diagram displays the workflow for the use cases Such as:
