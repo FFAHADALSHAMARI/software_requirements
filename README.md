@@ -8,10 +8,12 @@ The Library Management System is a comprehensive software solution designed to s
 UML Diagrams Examples:
 
 Use Case Diagram Example:
+
 The Use Case Diagram models the functions and the key actors of the system.
 <img width="665" alt="usecase diagram" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/673d9bae-5f30-4c5c-b7b1-bcc643c03abb">
 
 Class Diagram:
+
 Displays the main entities and the relationships.
 <img width="780" alt="con class" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/6f8e2eea-d321-413b-951f-13bc563cdd91">
 
@@ -24,13 +26,21 @@ Sequence Diagram Example:
 The Sequence Diagram displays the workflow for the use cases Such as:
 
 -borrowBooks
+
 -renewBooks
+
 -returnBooks
+
 -payFine
+
 -addBooks
+
 -manageMembershib
+
 -usageReports
+
 -manageBooks
+
 -reserveBooks
 
 Limitations:
