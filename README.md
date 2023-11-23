@@ -48,3 +48,14 @@ Limitations:
 - everything in the programe (RM2PT)
 
 
+LAB3
+generating architecture design from requirement models. Showing the use case diagram and class diagram in the figures
+
+
+<img width="706" alt="generate design model from lms" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/9d1ee440-62bb-47cf-b718-5ba41c6dd9ed">
+
+<img width="827" alt="generate" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/442098a3-e264-43e7-87fd-bd3916a48745">
+
+<img width="1257" alt="lab3 1st screenshot" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/68056910-1eff-4943-8abd-6838e32f41be">
+
+
