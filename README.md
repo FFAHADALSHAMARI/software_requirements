@@ -58,4 +58,5 @@ generating architecture design from requirement models. Showing the use case dia
 
 <img width="1257" alt="lab3 1st screenshot" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/68056910-1eff-4943-8abd-6838e32f41be">
 
+<img width="262" alt="last" src="https://github.com/FFAHADALSHAMARI/software_requirements/assets/148696097/f87d6b99-0b46-40e5-9048-d218eda3d125">
 
